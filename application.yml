@@ -5,4 +5,4 @@ eureka:
     service-url:
       defaultZone: http://SERVICE-REGISTRY:8761
     instance:
-      hostname: localhost
+      hostname: SERVICE-REGISTRY
